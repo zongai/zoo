@@ -7,7 +7,55 @@
       "developerName": "My Developer",
       "subtitle": "Native RSS Reader client",
       "localizedDescription": "IosRss",
-      "iconURL": "https://example.com/plex-icon.png",
+      "iconURL": "{
+  "name": "zongai",
+  "identifier": "com.zongai.sidestore",
+  "subtitle": "Private GitHub Apps",
+  "description": "My private iOS applications",
+  "iconURL": "https://raw.githubusercontent.com/zongai/zoo/refs/heads/main/icon.png",
+  "cacheSeconds": 300,
+  "repositories": [
+    {
+      "alias": "harbor",
+      "owner": "zongai",
+      "repo": "Harbor",
+      "branch": "feature/epub-opds",
+      "tokenSecret": "GH_TOKEN",
+      "releases": true,
+      "manifest": "sidestore-apps.json"
+    },
+    {
+      "alias": "pilip",
+      "owner": "zongai",
+      "repo": "pilip",
+      "branch": "main",
+      "tokenSecret": "GH_TOKEN",
+      "releases": true,
+      "manifest": "sidestore-apps.json"
+    },
+    {
+	  "alias": "debrify",
+	  "owner": "zongai",
+	  "repo": "debrify",
+	  "branch": "feature/plex-integration",
+	  "tokenSecret": "GH_TOKEN",
+	  "releases": true,
+	  "includePrereleases": true,
+	  "manifest": "sidestore-apps.json",
+	  "maxReleases": 100
+	},
+    {
+      "alias": "zoo",
+      "owner": "zongai",
+      "repo": "zoo",
+      "branch": "main",
+      "iconURL": "https://raw.githubusercontent.com/zongai/zoo/refs/heads/main/icon.png",
+      "tokenSecret": "GH_TOKEN",
+      "releases": true,
+      "manifest": "sidestore-apps.json"
+    }
+  ]
+}",
       "tintColor": "3478F6",
       "version": "1",
       "versionDate": "2026-09-26",
