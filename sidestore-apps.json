@@ -8,6 +8,7 @@
       "subtitle": "Native RSS Reader client",
       "localizedDescription": "IosRss",
       "iconURL": "https://raw.githubusercontent.com/zongai/zoo/refs/heads/main/icon.png",
+      "banner": "https://raw.githubusercontent.com/zongai/zoo/refs/heads/main/banner.png",
       "tintColor": "3478F6",
       "version": "1",
       "versionDate": "2026-09-26",
