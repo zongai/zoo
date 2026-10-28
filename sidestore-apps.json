@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "file": "Infuse_8.2.4_Plus2.5_iOS16.x_秋名山.ipa",
+      "file": "Infuse_8.2.4_Plus2.5_iOS16.x_.ipa",
       "bundleIdentifier": "com.example.Infuse",
       "name": "Infuse_8.2.4_Plus2.5_iOS16.x_秋名山",
       "developerName": "My Developer",
@@ -16,7 +16,7 @@
       "minOSVersion": "17.0"
     },
     {
-      "file": "Instagram_452_Ryuk150_iOS16.3+_秋名山.ipa",
+      "file": "Instagram_452_Ryuk150_iOS16.3+_.ipa",
       "bundleIdentifier": "com.example.Instagram",
       "name": "Instagram_452_Ryuk150_iOS16.3+_秋名山",
       "developerName": "My Developer",
@@ -31,7 +31,7 @@
       "minOSVersion": "17.0"
     },
     {
-      "file": "X_Twitter_12.36_NFX7.2_秋名山.ipa",
+      "file": "X_Twitter_12.36_NFX7.2_.ipa",
       "bundleIdentifier": "com.example.x",
       "name": "X_Twitter_12.36_NFX7.2_秋名山",
       "developerName": "My Developer",
